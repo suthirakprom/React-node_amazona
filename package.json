@@ -1,0 +1,27 @@
+{
+  "name": "amazona",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suthirakprom/React-Node_Amazona-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suthirakprom/React-Node_Amazona-app/issues"
+  },
+  "homepage": "https://github.com/suthirakprom/React-Node_Amazona-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "nodemon": "^2.0.14"
+  }
+}
